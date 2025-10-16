@@ -18,7 +18,7 @@ Built an intelligent Bengali person name entity extraction engine that reads ben
 <br>-->output : মো. আব্দুর রহিম
 
 
-**Language used :** Python  </br> 
+**Language used :** Python 3.11.13 </br> 
 **ML Framework :** PyTorch  </br>
 **Dataset used :** <a href="https://github.com/Rifat1493/Bengali-NER/tree/master/Input">[Bengali NER]</a>  </br>
 **Models used :** </br> 
