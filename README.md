@@ -19,7 +19,7 @@ Built an intelligent Bengali person name entity extraction engine that reads ben
 
 
 **Language used :** Python  </br> 
-**ML framework :** PyTorch  </br>
+**ML Framework :** PyTorch  </br>
 **Dataset used :** <a href="https://github.com/Rifat1493/Bengali-NER/tree/master/Input">[Bengali NER]</a>  </br>
 **Models used :** </br> 
 1. <a href= "https://huggingface.co/celloscopeai/celloscope-28000-ner-banglabert-finetuned">ner-banglabert-finetuned</a>
@@ -45,7 +45,7 @@ Built an intelligent Bengali person name entity extraction engine that reads ben
 For installing the necessary requirements, use the following bash snippet
 ```bash
 git clone https://github.com/HasibAlMuzdadid/Bengali-Person-Name-Entity-Extraction.git
-cd Bengali-Person-Name-Entity-Extraction/
+cd Bengali-Person-Name-Entity-Extraction
 python -m venv myenv
 myenv/Scripts/Activate 
 pip install -r requirements.txt
