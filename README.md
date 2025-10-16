@@ -12,9 +12,10 @@ Portfolio: https://hasibalmuzdadid.github.io  </br>
  
 ## Project Description :
 Built an intelligent Bengali person name entity extraction engine that reads bengali texts and instantly detects who is mentioned or smartly detects when no one is. 
+
 **For Example :**
-<br>input: শিল্প মন্ত্রণালয়ের সচিব মো. আব্দুর রহিম বলেন, পবিত্র রমজান মাস এলেই ব্যবসায়ীদের মধ্যে বেশি মুনাফা করার প্রবণতা তৈরি হয়
-<br>output: মো. আব্দুর রহিম
+<br>-->input : শিল্প মন্ত্রণালয়ের সচিব মো. আব্দুর রহিম বলেন, পবিত্র রমজান মাস এলেই ব্যবসায়ীদের মধ্যে বেশি মুনাফা করার প্রবণতা তৈরি হয়
+<br>-->output : মো. আব্দুর রহিম
 
 
 **Language used :** Python  </br> 
