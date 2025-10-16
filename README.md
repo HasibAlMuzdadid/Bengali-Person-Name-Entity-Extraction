@@ -22,9 +22,10 @@ Built an intelligent Bengali person name entity extraction engine that reads ben
 **ML framework :** PyTorch  </br>
 **Dataset used :** <a href="https://github.com/Rifat1493/Bengali-NER/tree/master/Input">[Bengali NER]</a>  </br>
 **Models used :** </br> 
-1. <a href= "https://huggingface.co/celloscopeai/celloscope-28000-ner-banglabert-finetuned">ner-banglabert-finetuned
-2. <a href= "https://huggingface.co/csebuetnlp/banglabert">banglabert
-3. <a href= "https://huggingface.co/csebuetnlp/banglabert_large">banglabert-large
+1. <a href= "https://huggingface.co/celloscopeai/celloscope-28000-ner-banglabert-finetuned">ner-banglabert-finetuned</a>
+2. <a href= "https://huggingface.co/csebuetnlp/banglabert">banglabert</a>
+3. <a href= "https://huggingface.co/csebuetnlp/banglabert_large">banglabert-large</a>  </br>
+
 **Results :** </br>
 | **Model**                                                                   | **F1 Score** |
 |:----------------------------------------------------------:|:--------------------------------
