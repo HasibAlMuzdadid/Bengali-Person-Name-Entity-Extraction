@@ -11,6 +11,11 @@ Portfolio: https://hasibalmuzdadid.github.io  </br>
 
  
 ## Project Description :
+
+<p align="center">
+   <img src="./files/bengali person name entity extraction.gif" width="450" height="300"/>
+</p>
+
 Built an intelligent Bengali person name entity extraction engine that reads bengali texts and instantly detects who is mentioned or smartly detects when no one is. 
 
 **For Example :**
